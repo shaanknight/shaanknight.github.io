@@ -11,8 +11,8 @@
 	color: white;
 	text-decoration:none;
 	padding: 5px 15px;
-	font-family: 'Orbitron', sans-serif;
-	font-size: 15px;
+	font-family: 'Architects Daughter', cursive;
+	font-size: 20px;
 	animation-name: headr;
 	animation-duration: 2s;
 }
@@ -34,8 +34,8 @@
 	color: white;
 	text-decoration:none;
 	padding: 5px 20px;
-	font-family: 'Orbitron', sans-serif;
-	font-size: 15px;
+	font-family:  'Architects Daughter', cursive;
+	font-size: 20px;
 	border: 1px solid white;
 	animation-name: headr;
 	animation-duration: 4s;
@@ -45,7 +45,7 @@
 }
 #centx{
 	font-family: 'Spectral SC', serif;
-	font-size: 45px;
+	font-size: 25px;
 	color: white;
 	animation-name: headr;
 	animation-duration: 8s;
