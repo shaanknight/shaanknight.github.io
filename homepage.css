@@ -57,6 +57,13 @@
 	animation-name: headr;
 	animation-duration: 8s;
 }
+#aboutcentx{
+	font-family: 'Architects Daughter', cursive;
+	font-size: 22px;
+	color: white;
+	animation-name: headr;
+	animation-duration: 8s;
+}
 .top{
 	right: 0;
 	top: 0;
